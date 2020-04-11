@@ -10,7 +10,7 @@ h1{
 }
 
 body{
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'PT Sans', sans-serif; 
 	line-height: 1.4;
 	color: skyblue;
 	overflow-x: hidden; 
@@ -230,4 +230,3 @@ body{
 #contact .form-container {
 	position: relative;
 }
-
