@@ -1,0 +1,57 @@
+body {
+      background-image: linear-gradient( 135deg, #E2B0FF 10%, #9F44D3 100%);
+      padding: 5em;
+      margin: 0 auto 0 auto;
+      padding: 1em;
+  }
+  
+  form{
+	  
+      background-image: linear-gradient( 120deg, #FCCF31 10%, #F55555 100%);
+      padding: 5em;
+      border: 5px solid black;
+      margin: 0 auto 0 auto;
+      max-width: 100%;
+	  max-height: 500%;
+      padding: 1em;
+  }
+  
+  header{
+	  
+	  font: 200%  "Comic Sans MS";
+	   padding: 5px;
+	  
+  }
+  
+  thead{
+	  font: 115%  "Comic Sans MS";
+	  
+  }
+  
+  td{
+	 font: 115%  "Comic Sans MS";
+	 border: 5px solid black;
+	 padding:10px;
+  }	 
+	  
+	  img {
+  display: block;
+  max-width:300px;
+  max-height:300px;
+  width: auto;
+  height: auto;
+}
+
+
+  .button1 {
+    background-color: skyblue;
+    color: red;
+    cursor: pointer;
+   width:50%;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    font-family: "Comic Sans MS";
+    padding: 10px;
+    text-transform: uppercase;
+  }
